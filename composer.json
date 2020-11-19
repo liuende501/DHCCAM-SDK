@@ -1,0 +1,21 @@
+{
+    "name": "liuende501/dhccam-sdk",
+    "description": "PHP SDK for DHCCAM",
+    "type": "library",
+    "require": {
+        "php": "^7.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liuende",
+            "email": "shui501@126.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Mediway\\Dhccam\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
